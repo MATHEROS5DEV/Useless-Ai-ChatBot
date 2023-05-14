@@ -4,6 +4,5 @@ This is a Simple Ai Assistant and you can ask him any questions and it will answ
 To install all modules just type-
 pip install -r requirements.txt 
                
-              or       
- pip3 install -r requirements.txt
+              pip install -r requirements.txt       
  Thanks For Visiting this Respoitry!
